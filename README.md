@@ -2,7 +2,7 @@
 ### A simple vanilla JS app that finds out whther your birthdate is a palindrome or not , otherwise it would tell the next palindrome date and the date difference       
 
 The app is made in vanilla JS so there is no need to install the dependencies     
-Live App at :     
+Live App at :   https://palindrome-birthday-ge68h8jvl-hnh013.vercel.app/    
 Pre-requisites : A code editor     
 Steps to run the app at your local machine     
 1. Run the command on CLI/command prompt to clone the repo on your local machine in the directory of your choice     
